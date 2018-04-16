@@ -6,6 +6,10 @@ A Udacity web-based application that reads RSS feeds.
 
 This project developed using HTML, CSS, JavaScript and Jasmine testing framework.
 
+## How to run the application
+
+* Clone the project using: git clone https://github.com/marwaaboshall/frontend-nanodegree-feedreader.git
+* Run index.html in your browser
 
 ## Resources
 

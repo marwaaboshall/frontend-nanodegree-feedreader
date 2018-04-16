@@ -7,7 +7,7 @@ A Udacity web-based application that reads RSS feeds.
 This project developed using HTML, CSS, JavaScript and Jasmine testing framework.
 
 
-## Resources used to develop the project
+## Resources
 
 ### Google Fonts
 * https://fonts.google.com/
